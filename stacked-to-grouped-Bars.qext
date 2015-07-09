@@ -1,0 +1,9 @@
+{
+    "name": "Stacked-to-Grouped-Bars",
+    "description": "Stacked-to-Grouped-Bars visualization for Qlik Sense",
+    "icon": "Stacked-chart",
+    "type": "visualization",
+    "version": "1.0",
+    "preview": "bar",
+    "author": "jaeseok kang"
+}
